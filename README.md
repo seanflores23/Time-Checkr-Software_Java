@@ -12,7 +12,7 @@ TimeCheckr is a student attendance and schedule management desktop application b
 - 🎵 **Sound FX**: Click and navigation sounds to improve user experience.
 
 ## 📸 Screenshot Preview
-![Screenshot](https://your-screenshot-url-here)
+![Screenshot](Screenshot_TimeCheckr.png)
 
 ## 🏗️ Project Structure
 TimeCheckr/
