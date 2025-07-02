@@ -14,12 +14,6 @@ TimeCheckr is a student attendance and schedule management desktop application b
 ## 📸 Screenshot Preview
 ![Screenshot](Screenshot_TimeCheckr.png)
 
-## 🏗️ Project Structure
-TimeCheckr/
-├── src/ # Java source files
-├── resources/ # UI images, audio, icons
-└── README.md # This file
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
